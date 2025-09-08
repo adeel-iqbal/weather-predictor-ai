@@ -146,9 +146,8 @@ Explore the complete analysis in `weather_predictor.ipynb`:
 weather-predictor-ai/
 │
 ├── assets/
-│   ├── preview1.png          # App screenshot 1
-│   └── preview2.png          # App screenshot 2
-│   └── preview2.png          # App screenshot 3
+│   ├── image1.png          # App screenshot 1
+│   └── image2.png          # App screenshot 2
 │
 ├── app.py                          # Streamlit web application
 ├── weather_predictor.ipynb         # Complete analysis notebook
@@ -185,11 +184,10 @@ weather-predictor-ai/
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](assets/preview1.png)
+![Main Interface](assets/image1.png)
 
 ### Prediction Results
-![Prediction Results](assets/preview2.png)
-![Prediction Results](assets/preview3.png)
+![Prediction Results](assets/image2.png)
 
 ## 🤝 Contributing
 
