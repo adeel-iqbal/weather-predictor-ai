@@ -5,7 +5,7 @@ An intelligent weather classification system that predicts weather types (Sunny,
 
 ## 🚀 Live Demo
 
-**[Try the Weather Predictor App](YOUR_STREAMLIT_LINK_HERE)** 
+🔗 **[Weather Predictor AI](https://weather-predictor-ai.streamlit.app/)** 
 
 ## 📋 Table of Contents
 
